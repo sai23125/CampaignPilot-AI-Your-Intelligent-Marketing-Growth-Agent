@@ -1,0 +1,6 @@
+{
+  "name": "CampaignPilot AI",
+  "description": "Intelligent marketing campaign diagnosis agent to turn campaign data into actionable growth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
